@@ -181,14 +181,130 @@ Add policy checks and validation to an existing workflow.
 
 ---
 
+## Notebooks
+
+Every notebook can be opened and run on Google Colab directly from the links below. Just click the **Open In Colab** badge next to the notebook you want to run. Notebooks are grouped by the day and session encoded in their filenames; `_SOLUTIONS` / `_solution` notebooks contain the completed versions of the corresponding exercises.
+
+### Day 1 – Foundations and Multi-Agent Design
+
+#### Session 1 — From Stateless LLM to Stateful Agent
+
+**Demos**
+| Notebook | Colab |
+|---|---|
+| LLM State | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_1_SESSION_1_LLM_state.ipynb) |
+
+#### Session 2 — Structured Reasoning and Test-Time Intelligence
+
+**Hands-on**
+| Notebook | Colab |
+|---|---|
+| Tree-of-Thought (ToT) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_1_HANDS_ON_SESSION_2_ToT.ipynb) |
+
+#### Session 3 — Human-in-the-Loop Safeguards
+
+**Demos**
+| Notebook | Colab |
+|---|---|
+| Human-in-the-Loop (HITL) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_1_DEMO_SESSION_3_HITL.ipynb) |
+
+#### Session 4 — From Single Agent to Multi-Agent System
+
+**Demos**
+| Notebook | Colab |
+|---|---|
+| HITL Agent Workflow | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_1_DEMO_SESSION_4_HITL_AGENT_WORKFLOW.ipynb) |
+| HITL Agent Workflow — Solutions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_1_DEMO_SESSION_4_HITL_AGENT_WORKFLOW_SOLUTIONS.ipynb) |
+| Hierarchical Agent Teams | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_1_DEMO_SESSION_4_hierarchical_agent_teams.ipynb) |
+| Swarms | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_1_DEMO_SESSION_4_swarms.ipynb) |
+
+**Hands-on**
+| Notebook | Colab |
+|---|---|
+| Hierarchical Agent Teams | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_1_HANDS_ON_SESSION_4_hierarchical_agent_teams.ipynb) |
+| Hierarchical Agent Teams — Solutions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_1_HANDS_ON_SESSION_4_hierarchical_agent_teams_SOLUTIONS.ipynb) |
+| Hierarchical Agent Teams — Solutions (Copy) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/Copy_of_DAY_1_HANDS_ON_SESSION_4_hierarchical_agent_teams_SOLUTIONS.ipynb) |
+
+#### Session 5 — Communication Patterns in MAS
+
+**Demos**
+| Notebook | Colab |
+|---|---|
+| Communication Patterns | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/communication_patterns.ipynb) |
+
+**Hands-on**
+| Notebook | Colab |
+|---|---|
+| Communication Patterns Exchange — Solutions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_1_HANDS_ON_communication_patterns_exchange_SOLUTIONS.ipynb) |
+
+#### Other Day 1 Notebooks
+
+**Hands-on**
+| Notebook | Colab |
+|---|---|
+| Stakeholder Chaos to Structure | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_1_HANDS_ON_stakeholder_chaos_to_structure.ipynb) |
+| Stakeholder Chaos to Structure — Solutions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_1_HANDS_ON_stakeholder_chaos_to_structure_SOLUTIONS.ipynb) |
+| Structured Spec with LangGraph — Solutions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_1_HANDS_ON_structured_spec_langgraph_SOLUTIONS.ipynb) |
+| LangGraph Web Search | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_1_HANDS_ON_langgraph_web_search.ipynb) |
+| LangGraph Logging & Checkpointing — Solutions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_1_HANDS_ON_langgraph_logging_checkpointing_SOLUTIONS.ipynb) |
+
+### Day 2 – Production-Ready Systems
+
+#### Session 2 — Memory and Context Strategy
+
+**Hands-on**
+| Notebook | Colab |
+|---|---|
+| LangGraph Episodic & Procedural Memory (Tools) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_2_HANDS_ON_Session_2_langgraph_episodic_procedural_tools.ipynb) |
+| LangGraph Episodic & Procedural Memory (Tools) — Solution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_2_HANDS_ON_Session_2_langgraph_episodic_procedural_tools_solution.ipynb) |
+
+#### Session 5 — Security and Governed MCP
+
+**Demos**
+| Notebook | Colab |
+|---|---|
+| A2A + MCP Governed | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_2_DEMO_Session_5_A2A_MCP_Governed.ipynb) |
+| Unsafe Agent Scenarios | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_2_DEMO_Session_5_Unsafe_Agent_Scenarios.ipynb) |
+
+#### Other Day 2 Notebooks
+
+**Demos**
+| Notebook | Colab |
+|---|---|
+| arXiv MCP + LangExtract + Pydantic | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_2_DEMO_arxiv_mcp_langextract_pydantic.ipynb) |
+| arXiv MCP + LangExtract + Pydantic (Working) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_2_DEMO_arxiv_mcp_langextract_pydantic_working.ipynb) |
+| Tavily Crawl → Structured Handoff | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DAY_2_DEMO_tavily_crawl_structured_handoff.ipynb) |
+
+**Hands-on**
+| Notebook | Colab |
+|---|---|
+| LangGraph Episodic & Procedural Memory (Tools) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_2_HANDS_ON_langgraph_episodic_procedural_tools.ipynb) |
+| LangGraph Episodic & Procedural Memory (Tools) — Solutions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_2_HANDS_ON_langgraph_episodic_procedural_tools_SOLUTIONS.ipynb) |
+| Planner Thinking (Nebius) — Solutions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/DAY_2_HANDS_ON_planner_thinking_nebius_SOLUTIONS.ipynb) |
+
+### Additional Notebooks
+
+Notebooks whose filenames are not tied to a specific day or session.
+
+**Demos**
+| Notebook | Colab |
+|---|---|
+| LangGraph Memory Types | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DEMO_langgraph_memory_types.ipynb) |
+| Planner Thinking vs Unified Deep Research | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DEMO_langgraph_planner_thinking_vs_unified_deep_research.ipynb) |
+| Research Context: Subagents + Supervisor | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/demos/DEMO_research_context_subagents_supervisor.ipynb) |
+
+**Hands-on**
+| Notebook | Colab |
+|---|---|
+| Tree-of-Thought (ToT) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nicolepcx/ORM_AI_Agents_Bootcamp/blob/main/hands_on/ch02_ToT.ipynb) |
+
 ## Running the Notebooks
 
-All notebooks are designed to run in **Google Colab**.
+All notebooks are designed for **Google Colab**.
 
-1. Open a notebook using its Colab link.
-2. Install the required dependencies when prompted.
-3. Configure the API key for the model provider used in the notebook.
-4. Run the notebook cells in order.
+1. Click the **Open In Colab** badge for any notebook above
+2. Add your API tokens when prompted
+3. Run the cells sequentially
 
 ### Using OpenRouter
 
